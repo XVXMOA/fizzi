@@ -60,5 +60,3 @@ This project showcases advanced frontend development skills including:
 ---
 
 Created by **XVXMOA** - Frontend Developer & Creative Technologist
-
-*Pushing the boundaries of web experiences with 3D graphics and animations*
