@@ -13,6 +13,9 @@ export default function Footer({}: Props) {
           <CircleText />
         </div>
       </div>
+      <div className="text-center pb-4 text-sm font-medium">
+        Made By Saleh
+      </div>
     </footer>
   );
 }
