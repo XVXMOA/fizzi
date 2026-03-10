@@ -1,25 +1,64 @@
-# Fizzi Website - Final code
+# XVXMOA - 3D Animated Soda Landing Page
 
-This is the final code for the YouTube tutorial course where we build a 3D animated e-commerce landing page for the fictional soda brand, Fizzi!
+A stunning 3D animated e-commerce landing page for the fictional soda brand, Fizzi. Built with Next.js, Three.js, and GSAP animations.
 
-For more information and to watch the course go to the [course documentation](https://dub.sh/fizzi).
+## 🚀 Features
 
-## Skip the tutorial and launch the site
+- **3D Graphics**: Interactive 3D soda cans with React Three Fiber
+- **Smooth Animations**: GSAP-powered scroll animations and transitions
+- **Responsive Design**: Fully responsive layout with Tailwind CSS
+- **Modern Stack**: Next.js 14, TypeScript, and cutting-edge web technologies
+- **Interactive Elements**: Dynamic carousel, floating bubbles, and text effects
 
-If you don’t want to go through the tutorial, but want your own version of the website deployed on Prismic, follow these directions:
+## 🛠️ Tech Stack
 
-1. Clone the code:
-    
-    ```tsx
-    npx @slicemachine/init@latest --starter course-fizzi-next
-    ```
-    
-2. Open the Prismic repository and select “English - United States”.
-3. Run the content set up script:
-    
-    ```tsx
-    npm run set-up-content
-    ```
-    
-4. Open the migration release and publish it. A URL will be printed on the screen.
-5. Set up the slice simulator URL: `http://localhost:3000/slice-simulator`
+- **Framework**: Next.js 14 with App Router
+- **3D Graphics**: Three.js & React Three Fiber
+- **Animations**: GSAP with ScrollTrigger
+- **Styling**: Tailwind CSS
+- **Language**: TypeScript
+- **CMS**: Prismic (integrated but can be removed)
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/XVXMOA/fizzi.git
+   cd fizzi
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## 🎨 What I Built
+
+This project showcases advanced frontend development skills including:
+
+- Complex 3D scene creation and manipulation
+- Performance-optimized animations
+- Component-based architecture
+- Modern React patterns and hooks
+- Responsive design principles
+
+## 🌟 Highlights
+
+- Interactive 3D soda can viewer
+- Smooth scroll-based animations
+- Dynamic content sections
+- Mobile-optimized experience
+- Clean, maintainable codebase
+
+---
+
+Created by **XVXMOA** - Frontend Developer & Creative Technologist
+
+*Pushing the boundaries of web experiences with 3D graphics and animations*
